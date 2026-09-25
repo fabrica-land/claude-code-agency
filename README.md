@@ -135,3 +135,7 @@ This plugin was extracted from [Herald](https://timgarthwaite.substack.com), a p
 - [claude-code-plugins](https://github.com/mividtim/claude-code-plugins) — Marketplace for mividtim's plugins
 - [claude-code-event-listeners](https://github.com/mividtim/claude-code-event-listeners) — Background event listeners
 - [claude-code-plugin-deps](https://github.com/mividtim/claude-code-plugin-deps) — Plugin dependency resolution
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
